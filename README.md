@@ -124,3 +124,5 @@ Selim Can Özdemir - [@zxselimcan](https://github.com/zxselimcan)
 - [NestJS](https://nestjs.com) - Backend framework
 - [OpenAI](https://openai.com) - AI destekli yorumlar
 - [OpenRouter](https://openrouter.ai) - AI destekli yorumlar
+
+Uygulamanın verdiği cevaplar yalnızca eğlence amaçlıdır ve gerçeği yansıtmaz.
