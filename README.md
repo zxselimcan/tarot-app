@@ -14,14 +14,24 @@ Tarot AI, modern teknoloji ile geleneksel tarot okumasını birleştiren kapsaml
 
 ## 🖼️ Ekran Görüntüleri
 
-<p align="center">
-  <img src="screenshots/home-screen.png" width="200" alt="Ana Ekran"/>
-  <img src="screenshots/cards-screen.png" width="200" alt="Kart Seçimi"/>
-  <img src="screenshots/reading-screen.png" width="200" alt="Okuma Ekranı"/>
-  <img src="screenshots/history-screen.png" width="200" alt="Geçmiş"/>
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="screenshots/home.png" width="200" alt="Ana Ekran"/>
+    <img src="screenshots/home-select.png" width="200" alt="Dizilim Seçimi"/>
+    <img src="screenshots/pick-cards.png" width="200" alt="Kart Seçimi"/>
+    <img src="screenshots/spread.png" width="200" alt="Tarot Dizilimi"/>
+    <img src="screenshots/spread-bottom.png" width="200" alt="Dizilim Detayı"/>
+    <img src="screenshots/spread-ai-reading.png" width="200" alt="AI Yorumu"/>
+    <img src="screenshots/history.png" width="200" alt="Geçmiş"/>
+    <img src="screenshots/settings.png" width="200" alt="Ayarlar"/>
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <img src="screenshots/light-mode.png" width="200" alt="Aydınlık Tema"/>
+  </div>
+</div>
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Teknolojiler
 
 ### Mobile (Frontend)
 
