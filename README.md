@@ -97,7 +97,7 @@ api/
 
 - **Çoklu Dizilim Desteği**: Kelt Haçı (10 kart), Üç Kart ve At Nalı (7 kart) dizilimleri
 - **AI Destekli Yorumlar**: OpenAI API entegrasyonu ile kişiselleştirilmiş tarot yorumları
-- **ÇokluDil Desteği**: Tam Türkçe ve İngilizce dil desteği
+- **Çoklu Dil Desteği**: Tam Türkçe ve İngilizce dil desteği
 - **Tema Desteği**: Sistem temasına uyumlu karanlık/aydınlık mod
 - **Veri Kalıcılığı**: AsyncStorage ile yerel veri saklama
 - **Animasyonlar**: React Native Reanimated ile akıcı kart animasyonları
